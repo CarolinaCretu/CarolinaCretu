@@ -1,4 +1,3 @@
-
 ##Hi there 👋
 
 My name is Carolina, and I'm currently completing my Bachelor's in Genomics at the University of Bologna. I'm passionate about bioinformatics and eager to explore how biological data can be analyzed in the field of cognitive genomics.
