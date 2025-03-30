@@ -13,7 +13,7 @@ Learning and memory have always fascinated me. I struggled for a long time to fi
 ## Things unrelated to cognitive genomics that also interest me 
 🌐 As a creative person, I've also explored web design. Besides the [web page dedicated to learning](), I built a custom portfolio website for my boyfriend, designing all the graphics myself. You can find the code [here](https://github.com/CarolinaCretu/Website---Nicolo-Bramante) and visit his [website](https://nicolobramante.com/).
 
-😄 I've also founded a student association at my university with the goal of connecting all students interestesd in biotechnology from the different degrees. I created some tools we needed for the association such as email automation, data vizualization of the different members groups (such as the different degrees, years) and also a newsletter archive. All these codes can be found in this [repository](https://github.com/CarolinaCretu/student_association_tools)
+😄 I've also founded a student association at my university with the goal of connecting all students interestesd in biotechnology from the different degrees. I created some tools we needed for the association such as email automation, data vizualization of the different members groups (such as the different degrees, years) and also a (newsletter archive)[https://carolinacretu.github.io/student_association/]. All these codes can be found in this [repository](https://github.com/CarolinaCretu/student_association_tools).
 
 ## Let's connect! 📫
 
