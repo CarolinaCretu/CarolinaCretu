@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Carolina, and I'm currently completing my Bachelor's in Genomics at the University of Bologna. I’m passionate about bioinformatics and deeply interested in how biological data can be analyzed to uncover insights into the complexity of the human body.
+My name is Carolina, and I'm currently completing my Bachelor's in Genomics at the University of Bologna. I’m passionate about how biological data can be analyzed to uncover insights into the complexity of the human body.
 
 
 ## What I'm working on
