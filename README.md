@@ -10,7 +10,7 @@ My name is Carolina, and I'm currently completing my Bachelor's in Genomics at t
 ## Things unrelated to bioinformatics that also interest me
 🌐 As a creative person, I've also explored web design. I built a custom portfolio website for my boyfriend, designing all the graphics myself. You can find the [website](https://nicolobramante.com/) here.
 
-🧠 Learning and memory have always fascinated me. I struggled for a long time to find effective study techniques and understand the learning process— until I started researching and diving into scientific papers that explain these cognitive processes. To help others save time and find answers more easily, I’ve compiled everything I found into this [web page](). 
+🧠 Learning and memory have always fascinated me. I struggled for a long time to find effective study techniques and understand the learning process— until I started researching and diving into scientific papers that explain this cognitive process. To help others save time and find answers easier, I’ve compiled everything I found into this [web page](). 
 
 ## Let's connect! 📫
 
