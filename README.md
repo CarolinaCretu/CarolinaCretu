@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Carolina, and I'm currently completing my Bachelor's in Genomics at the University of Bologna. I’m passionate about how biological data can be analyzed to uncover insights into the complexity of the human body.
+My name is Carolina, and I'm currently completing my Bachelor's in Genomics at the University of Bologna. I’m passionate about how biological data can be analyzed to uncover insights into the complexity of the human body and the natural world.
 
 
 ## What I'm working on
@@ -8,7 +8,7 @@ My name is Carolina, and I'm currently completing my Bachelor's in Genomics at t
 💻 I'm currently tackling problems on the [Rosalind Platform](https://rosalind.info/about/), gaining hands-on experience with bioinformatics algorithms. You can check out my progress in this [repository](https://github.com/CarolinaCretu/rosalind_solutions).
 
 ## Things unrelated to bioinformatics that also interest me
-🌐 As a creative person, I've also explored web design. I built a custom portfolio website for my boyfriend, designing all the graphics myself. You can find the [website](https://nicolobramante.com/) here.
+🌐 As a creative person, I've also explored web design. I built a custom portfolio website, designing all the graphics myself. You can find the [website](https://nicolobramante.com/) here.
 
 🧠 Learning and memory have always fascinated me. I struggled for a long time to find effective study techniques and understand the learning process— until I started researching and diving into scientific papers that explain this cognitive process. To help others save time and find answers easier, I’ve compiled everything I found into this [web page](). 
 
